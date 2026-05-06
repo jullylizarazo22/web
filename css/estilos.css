@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.typ{
+	font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+	text-align: center;
+}
+
+h1{
+	font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+	text-align: center;
+}
+
+h3{
+	font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+	text-align: center;
+}	
+
+p{
+font-family: "Quicksand", sans-serif;
+	text-align: center;
+}
+
+.vid{
+	padding:5%;
+}
+
+footer{
+	text-align: center;
+	background-color: #8E7C70;
+	background-image: url("../img/img ter.png");
+	background-repeat: no-repeat;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
